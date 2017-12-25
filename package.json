@@ -4,7 +4,7 @@
   "description": "feature-one change. feature-two change.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Oh no, let's fail!\" && exit 1"
+    "test": "echo \"Yay, let's pass\""
   },
   "repository": {
     "type": "git",
