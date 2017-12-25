@@ -1,0 +1,19 @@
+{
+  "name": "super-cool-dog-stuff",
+  "version": "1.0.0",
+  "description": "feature-one change. feature-two change.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Yay, let's pass\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harpler/super-cool-dog-stuff.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harpler/super-cool-dog-stuff/issues"
+  },
+  "homepage": "https://github.com/harpler/super-cool-dog-stuff#readme"
+}
